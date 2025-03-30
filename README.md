@@ -1,6 +1,7 @@
 # Snake Game
 
-![Snake Game Screenshot](screenshot.png)
+![Snake Game Screenshot](![image](https://github.com/user-attachments/assets/bd073826-64c1-4c1f-86b7-7e4549e60f1a)
+)
 
 A classic console-based Snake game implemented in C, featuring a menu system, score tracking, and smooth snake movement.
 
