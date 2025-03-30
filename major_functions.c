@@ -103,7 +103,7 @@ void print_xy(int x,int y,char *str,int color){
 }
 void intro(){
     print_rectangle(28,10,30,10,WELCOME_BORDER_COLOR);
-    print_xy(43,15,"Welcome to my fuckin' snake game!!",WELCOME_TEXT_COLOR);
+    print_xy(43,15,"Welcome to snake game!!",WELCOME_TEXT_COLOR);
     getch();
 }
 void menu(){
